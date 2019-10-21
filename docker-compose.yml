@@ -2,10 +2,8 @@ version: '3'
 services:
   mrdc-2020:
     build: .
-    entrypoint: /bin/sh
+    command: sh -c 'catkin build'
     working_dir: /root/mrdc-2020
     volumes:
       - ./mrdc-2020:/root/mrdc-2020:cached 
       - ./.ros:/root/.ros:cached
-    stdin_open: true
-    tty: true
