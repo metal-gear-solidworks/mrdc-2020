@@ -1,0 +1,12 @@
+Symlinking /root/mrdc-2020/devel/./local_setup.zsh
+Symlinking /root/mrdc-2020/devel/./setup.zsh
+Symlinking /root/mrdc-2020/devel/./local_setup.sh
+Symlinking /root/mrdc-2020/devel/./env.sh
+Symlinking /root/mrdc-2020/devel/./setup.sh
+Symlinking /root/mrdc-2020/devel/./setup.bash
+Symlinking /root/mrdc-2020/devel/./local_setup.bash
+Symlinking /root/mrdc-2020/devel/./cmake.lock
+Symlinking /root/mrdc-2020/devel/./_setup_util.py
+Symlinking /root/mrdc-2020/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /root/mrdc-2020/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /root/mrdc-2020/devel/lib/pkgconfig/catkin_tools_prebuild.pc
