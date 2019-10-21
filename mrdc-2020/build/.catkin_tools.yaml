@@ -1,6 +1,0 @@
-devel_space: /root/mrdc-2020/devel
-install: false
-install_space: /root/mrdc-2020/install
-profile: default
-source_space: /root/mrdc-2020/src
-workspace: /root/mrdc-2020
