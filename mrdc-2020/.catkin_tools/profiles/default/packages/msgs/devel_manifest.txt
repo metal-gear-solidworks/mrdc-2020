@@ -1,0 +1,20 @@
+msgs
+/root/mrdc-2020/devel/.private/msgs/cmake.lock /root/mrdc-2020/devel/./cmake.lock
+/root/mrdc-2020/devel/.private/msgs/share/gennodejs/ros/msgs/_index.js /root/mrdc-2020/devel/share/gennodejs/ros/msgs/_index.js
+/root/mrdc-2020/devel/.private/msgs/share/gennodejs/ros/msgs/msg/_index.js /root/mrdc-2020/devel/share/gennodejs/ros/msgs/msg/_index.js
+/root/mrdc-2020/devel/.private/msgs/share/gennodejs/ros/msgs/msg/Gamepad.js /root/mrdc-2020/devel/share/gennodejs/ros/msgs/msg/Gamepad.js
+/root/mrdc-2020/devel/.private/msgs/share/msgs/cmake/msgsConfig-version.cmake /root/mrdc-2020/devel/share/msgs/cmake/msgsConfig-version.cmake
+/root/mrdc-2020/devel/.private/msgs/share/msgs/cmake/msgsConfig.cmake /root/mrdc-2020/devel/share/msgs/cmake/msgsConfig.cmake
+/root/mrdc-2020/devel/.private/msgs/share/msgs/cmake/msgs-msg-paths.cmake /root/mrdc-2020/devel/share/msgs/cmake/msgs-msg-paths.cmake
+/root/mrdc-2020/devel/.private/msgs/share/msgs/cmake/msgs-msg-extras.cmake /root/mrdc-2020/devel/share/msgs/cmake/msgs-msg-extras.cmake
+/root/mrdc-2020/devel/.private/msgs/share/common-lisp/ros/msgs/msg/_package.lisp /root/mrdc-2020/devel/share/common-lisp/ros/msgs/msg/_package.lisp
+/root/mrdc-2020/devel/.private/msgs/share/common-lisp/ros/msgs/msg/msgs-msg.asd /root/mrdc-2020/devel/share/common-lisp/ros/msgs/msg/msgs-msg.asd
+/root/mrdc-2020/devel/.private/msgs/share/common-lisp/ros/msgs/msg/Gamepad.lisp /root/mrdc-2020/devel/share/common-lisp/ros/msgs/msg/Gamepad.lisp
+/root/mrdc-2020/devel/.private/msgs/share/common-lisp/ros/msgs/msg/_package_Gamepad.lisp /root/mrdc-2020/devel/share/common-lisp/ros/msgs/msg/_package_Gamepad.lisp
+/root/mrdc-2020/devel/.private/msgs/share/roseus/ros/msgs/manifest.l /root/mrdc-2020/devel/share/roseus/ros/msgs/manifest.l
+/root/mrdc-2020/devel/.private/msgs/share/roseus/ros/msgs/msg/Gamepad.l /root/mrdc-2020/devel/share/roseus/ros/msgs/msg/Gamepad.l
+/root/mrdc-2020/devel/.private/msgs/include/msgs/Gamepad.h /root/mrdc-2020/devel/include/msgs/Gamepad.h
+/root/mrdc-2020/devel/.private/msgs/lib/pkgconfig/msgs.pc /root/mrdc-2020/devel/lib/pkgconfig/msgs.pc
+/root/mrdc-2020/devel/.private/msgs/lib/python2.7/dist-packages/msgs/__init__.py /root/mrdc-2020/devel/lib/python2.7/dist-packages/msgs/__init__.py
+/root/mrdc-2020/devel/.private/msgs/lib/python2.7/dist-packages/msgs/msg/__init__.py /root/mrdc-2020/devel/lib/python2.7/dist-packages/msgs/msg/__init__.py
+/root/mrdc-2020/devel/.private/msgs/lib/python2.7/dist-packages/msgs/msg/_Gamepad.py /root/mrdc-2020/devel/lib/python2.7/dist-packages/msgs/msg/_Gamepad.py
